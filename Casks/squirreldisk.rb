@@ -13,8 +13,6 @@ cask "squirreldisk" do
     strategy :github_latest
   end
 
-  depends_on macos: ">= :high_sierra"
-
   caveats do
     requires_rosetta
   end
