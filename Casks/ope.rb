@@ -1,6 +1,6 @@
 cask "ope" do
-  version "0.1.0"
-  sha256 "0d712e7366590d429d0074139120d3cb811b5e3d7b70af2a93cfaba5efb4e7f9"
+  version "0.3.0"
+  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
 
   url "https://github.com/blemli/ope/releases/download/v#{version}/Ope_macos.zip",
     verified: "github.com/blemli/ope/"
