@@ -9,6 +9,13 @@ brew tap blemli/tap
 brew install --cask squirreldisk
 ```
 
+## Formulae
+
+- 
+
 ## Casks
 
-- squirreldisk
+- [bined](https://bined.exbin.org/)
+- [Googly Eyes](https://sindresorhus.com/googly-eyes)
+- [Ope](https://github.com/blemli/ope)
+- [squirreldisk](https://www.squirreldisk.com)
